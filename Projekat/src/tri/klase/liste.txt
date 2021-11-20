@@ -1,0 +1,17 @@
+5
+Petar, Petrovic, 30, 5/6/1991, matematika, true, 32000.00, 8
+Mitar, Miric, 25, 17/3/1996, srpski jezik, false, 32000.00, 3
+Miroslav, Ilic, 52, 8/9/1969, fizika, false, 25000.00, 30
+Mile, Kitic, 48, 23/1/1973, programiranje, true, 40000.00, 15
+Sako, Polumenta, 20 7/2/2001, OOP, false, 35000.00, 1
+10
+Milan, Stankovic, 17, 2/8/2004, GJJZ, IB
+Dado, Polumenta, 17, 6/10/2004, GSM, opsti
+Saban, Saulic, 16, 3/7/2005, GJJZ, informatika
+Sinan, Sakic, 18, 6/11/2003, GIS, prirodni
+Semsa, Suljakovic, 15, 3/8/2006, GSM, opsti
+Toma, Zdravkovic, 18, 14/7/2003, GSM, opsti
+Goci, Lazarevic, 16, 5/2/2005, GSM, opsti
+Silvana, Armenulic, 17, 5/11/2004, GJJZ, prirodno-matematicki
+Velinko, Klac, 16, 21/6/2004, GSM, opsti
+Dragan, Torbica, 15, 1/2/2006, GJJZ, bilingvalni engleski
